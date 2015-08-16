@@ -1,7 +1,5 @@
 <resources>
     <string name="app_name">HVACDemo</string>
-
-    <string name="hello_world">Hello world, 2!</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_settings">SettingsActivity</string>
     <string name="vehicle_vin_prefs_string">.vehicleVin</string>
@@ -13,4 +11,8 @@
     <string name="hvac_shared_prefs_string">com.jaguarlandrover.hvac.settings</string>
     <string name="use_proxy_server_switch_text">Use Proxy Server</string>
     <string name="use_proxy_server_not_switch_text">Don\'t Use Proxy Server</string>
+    <string name="title_activity_rvi">Remote Vehicle Interaction</string>
+    <string name="unlock_icon">&#xf023;</string>
+    <string name="profile">profile settings</string>
+    <string name="notification">&#xf071;</string>
 </resources>
