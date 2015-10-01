@@ -4,4 +4,5 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="settings_textview_top_margin">15dp</dimen>
     <dimen name="settings_proxy_entry_left_margin">20dp</dimen>
+
 </resources>

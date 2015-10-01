@@ -156,7 +156,7 @@
             android:layout_marginRight="@dimen/marginRight"
             android:background="@drawable/black_button"
             android:onClick="settingsSubmitButtonClicked"
-            android:text="add vehicle"
+            android:text="connect"
             android:textColor="@color/white"
             android:textStyle="bold"/>
 
